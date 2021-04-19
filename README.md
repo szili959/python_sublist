@@ -1,4 +1,4 @@
-# Wellcome to the the **List Analysis** task
+# Welcome to the the **List Analysis** task
 
 You will get a list containing characters and digits.
 
